@@ -103,8 +103,8 @@ A continuación se listan los errores del DJI Agras T40 clasificados por subsist
 * Calibración de las bombas ha dado error en la bomba 1
 * Calibración de las bombas ha dado error en la bomba 2
 * Calibración de las bombas ha dado error en ambas
-* Cabezal de boquilla desgastado o boquilla obstruida (boquilla centrífuga 1)
-* Cabezal de boquilla desgastado o boquilla obstruida (boquilla centrífuga 2)
+* [Cabezal de boquilla desgastado o boquilla obstruida (boquilla centrífuga 1)](./rociado/cabezal-boquilla-desgastado.md)
+* [Cabezal de boquilla desgastado o boquilla obstruida (boquilla centrífuga 2)](./rociado/cabezal-boquilla-desgastado.md)
 * Boquilla centrífuga 1 Motor atascado
 * Boquilla centrífuga 2 Motor atascado
 * Boquilla centrífuga 1 Error ESC
