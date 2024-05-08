@@ -1,3 +1,5 @@
+![Reyes Castro Drones](../Reyes-Castro-Drones_LOGO.png "Reyes Castro Drones")
+
 # Cabezal de boquilla desgastado o boquilla obstruida (Boquilla Centrífuga 1)
 
 Este error se presenta cuando el motor de la boquilla centrífuga 1 sensa una reducción en la resistencia de giro del motor. Es decir, el motor de la boquilla detecta que puede dar vuelta con muy poca resistencia. 
