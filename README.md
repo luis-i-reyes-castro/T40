@@ -1,4 +1,4 @@
-![Logotipo de Reyes Castro Drones](./Reyes-Castro-Drones_LOGO.png "Bienvenidos!")
+![Reyes Castro Drones](./Reyes-Castro-Drones_LOGO.png "Reyes Castro Drones")
 
 # DJI Agras T40: Diagnóstico y Resolución de Problemas _(Troubleshooting)_
 
