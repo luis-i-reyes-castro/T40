@@ -17,9 +17,19 @@ A continuación se listan catálogos de errores del DJI Agras T40 clasificados p
 * Fuente de señal RTK no seleccionada. No se puede iniciar.
 * Desvío excesivo de barómetro
 * Barómetro fuera de rango
+* Cambio de la altitud estática de la aeronave
+* Error de radar. La detección de obstáculos podría no estar disponible. Ejecute el pilotaje y el aterrizaje manualmente.
 * Radar desconectado
 * Error de autocomprobación del ESC del radar
+* ESC de radar desconectado
 * Ha fallado la comunicación entre el radar y el sistema de navegación.
+* Excepción de comunicación interna de radar I
+* Excepción de comunicación interna de radar III
+* Excepción de comunicación de bajada de radar I
+* Excepción de comunicación de bajada de radar III
+* Error de ráster de radar
+* Excepción de reloj RF de radar
+* Luz ambiental delantera demasiado débil. Sistema de superación de obstáculos no disponible. Vuele con cuidado.
 * Sensores de visión binocular delanteros borrosos. La detección de obstáculos frontal no está disponible Asegúrese...
 * Error de calibración del sensor visual frontal. El sistema de detección de obstáculos frontal no está disponible. Recalibrar sensor.
 * Error de detección de obstáculos frontales. La función de superación de obstáculos puede no estar disponible.
@@ -27,8 +37,18 @@ A continuación se listan catálogos de errores del DJI Agras T40 clasificados p
 * Error de datos del motor del estabilizador
 * Error al inicial el estabilizador. Sobrecarga de motor.
 * Motor del estabilizador no inicializado
+* El radio de la misión es superior al límite acceptable.
+* Error al inicial el algoritmo de CNN. Re-inicie la aeronave o vuele con cuidado.
+* El dron no ejecuta el RPO al finalizar la misión (a pesar de estar programado para hacerlo).
+* El dron no ejecuta el RPO al acabar el líquido del tanque (a pesar de estar programado para hacerlo).
+* El dron no ejecuta el RPO al llegar al nivel de batería baja (a pesar de estar programado para hacerlo).
+* Versión del módulo Aeronave incompatible
+* Su aeronave está en la zona restringida
+* Aeronaves en zona de advertencia (0). Vuele con cuidado.
+* Se ha detectado un error en el movimiento izquierdo y derecho de la palanca izquierda. No se puede...
 
 ## Errores del Sistema de Propulsión
+* Vibración anormal en los brazos del bastidor. Riesgo de choque. Se requiere mantenimiento inmediato.
 * Se ha perdido el acelerador de repuesto del Motor 1. Detenga el vuelo inmediatamente.
 * Se ha perdido el acelerador de repuesto del Motor 2. Detenga el vuelo inmediatamente.
 * Se ha perdido el acelerador de repuesto del Motor 3. Detenga el vuelo inmediatamente.
@@ -58,15 +78,20 @@ A continuación se listan catálogos de errores del DJI Agras T40 clasificados p
 * El brazo 3 no está bien sujeto (a pesar de estar asegurado)
 * El brazo 4 no está bien sujeto (a pesar de estar asegurado)
 * Se requiere mantenimiento de la batería
+* Sobrecalentamiento MOS de la batería
+* Ha fallado la autenticación de la batería
+* Error de comunicación entre el controlador de vuelo y la batería
 
 ### Errores del Sistema de Rociado
-* Error del sensor Hall de punto único
+* Error en sensor de nivel de líquido Hall de punto único
 * Sensor de nivel de líquido Hall the punto único desconectado
 * Cable de conexión del sensor de peso roto
 * Marcado incorrecto del litraje del tanque
-* Error de caudal de la bomba 1
-* Error de caudal de la bomba 2
-* Error de caudal de ambas bombas
+* Error de cálculo de caudal de la bomba 1
+* Error de cálculo de caudal de la bomba 2
+* Error de cálculo de caudal de ambas bombas
+* Ha fallado la autocomprobación de la bomba 1
+* Ha fallado la autocomprobación de la bomba 2
 * Error de autocomprobación de la bomba 1
 * Error de autocomprobación de la bomba 2
 * Error de autocomprobación de ambas bombas
@@ -75,18 +100,25 @@ A continuación se listan catálogos de errores del DJI Agras T40 clasificados p
 * Excepción de tiempo de funcionamiento ESC de ambas bombas
 * Voltage de la bomba 1 demasiado bajo
 * Voltage de la bomba 2 demasiado bajo
-* Bomba 1 desconectada
-* Bomba 2 desconectada
+* Bomba 1 no conectada
+* Bomba 2 no conectada
 * Ambas bombas desconectadas
 * Calibración de las bombas ha dado error en la bomba 1
 * Calibración de las bombas ha dado error en la bomba 2
 * Calibración de las bombas ha dado error en ambas
-* Cabezal de boquilla centrífuga 1 desgastado u obstruido
-* Cabezal de boquilla centrífuga 2 desgastado u obstruido
+* Cabezal de boquilla desgastado o boquilla obstruida (boquilla centrífuga 1)
+* Cabezal de boquilla desgastado o boquilla obstruida (boquilla centrífuga 2)
+* Boquilla centrífuga 1 Motor atascado
+* Boquilla centrífuga 2 Motor atascado
+* Boquilla centrífuga 1 Error ESC
+* Boquilla centrífuga 2 Error ESC
 * Boquilla centrífuga 1 Fallo de comprobación automática ESC
 * Boquilla centrífuga 2 Fallo de comprobación automática ESC
+* Boquilla centrífuga 1 Voltaje demasiado bajo
+* Boquilla centrífuga 2 Voltaje demasiado bajo
 * Boquilla centrífuga 1 desconectada
 * Boquilla centrífuga 2 desconectada
+* Excepción de puesta a cero del caudímetro
 * Caudimetro desconectado
 * Calibración del caudimetro ha dado error
 * Caudimetro marca 0 litros por minuto a pesar de que las bombas están encendidas
