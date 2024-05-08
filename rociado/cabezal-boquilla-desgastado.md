@@ -1,13 +1,19 @@
-# Cabezal de boquilla desgastado o boquilla obstruida \n(Boquilla Centrifuga 1/2)
+# Cabezal de boquilla desgastado o boquilla obstruida
+# (Boquilla Centrifuga 1/2)
 
-Este error se presenta cuando el motor de la boquilla centrifuga sensa una reducción en la resistencia de giro del motor. Es decir, el motor detecta que puede dar vuelta con muy poca resistencia. 
+Este error se presenta cuando el motor de la boquilla centrifuga 1/2 sensa una reducción en la resistencia de giro del motor. Es decir, el motor de la boquilla detecta que puede dar vuelta con muy poca resistencia. 
 
-**Principal Causa:** No está llegando líquido a la boquilla centrífuga, por alguna de las siguientes causas:
+**Causa Más Probable:** No está llegando líquido a la boquilla centrífuga 1/2, por alguna de las siguientes causas:
 * El filtro del fondo del tanque está tapado.
-* La bomba no está logrando mover el líquido a la tasa necesearia. Esto a su vez puede tener varias causas:
+* La bomba 1/2 no está logrando mover el líquido a la tasa necesearia. Esto a su vez puede tener varias causas:
 * * El cable de la bomba está dañado.
   * La bomba está dañada.
   * El cable del tanque está dañado.
   * La tarjeta de atrás del tanque está dañada.
   * La turbina de la bomba está atascada.
-* La válvula check de una vía está atascada.
+* Existen residuos atascados en la válvula check de una vía.
+* La manguera que pasa por el brazo M3/M4 está aplastada o torcida en algún segmento.
+* Existen residuos atascados en el conector en forma de 'U' que une la manguera del brazo con la manguera del bajante del mismo brazo.
+* La manguera que pasa por el bajante del brazo M3/M4 está aplastada o torcida en algún segmento.
+
+**Causa Menos Probable:** Desgaste en el disco de la boquilla centrífuga.
