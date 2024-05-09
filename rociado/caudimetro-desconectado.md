@@ -12,4 +12,3 @@ Causas Menos Probables:
 * La Tarjeta de Rociado está dañada.
 * El cable adaptivo, el cual une el cable del tanque con la Tarjeta de Distribución de Cables, está sucio, sulfatado o dañado.
 * La Tarjeta de Distribución de Cables está dañada.
-* 
