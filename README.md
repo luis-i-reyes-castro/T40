@@ -70,6 +70,14 @@ A continuación se listan los errores del DJI Agras T40 clasificados por subsist
 * ESC 6 desconectado
 * ESC 7 desconectado
 * ESC 8 desconectado
+* Excepción de ciclo de acelerador del motor 1
+* Excepción de ciclo de acelerador del motor 2
+* Excepción de ciclo de acelerador del motor 3
+* Excepción de ciclo de acelerador del motor 4
+* Excepción de ciclo de acelerador del motor 5
+* Excepción de ciclo de acelerador del motor 6
+* Excepción de ciclo de acelerador del motor 7
+* Excepción de ciclo de acelerador del motor 8
 * El brazo 1 no está bien sujeto (a pesar de estar asegurado)
 * El brazo 2 no está bien sujeto (a pesar de estar asegurado)
 * El brazo 3 no está bien sujeto (a pesar de estar asegurado)
