@@ -45,7 +45,7 @@ A continuación se listan los errores del DJI Agras T40 clasificados por subsist
 * Se ha detectado un error en el movimiento izquierdo y derecho de la palanca izquierda. No se puede...
 
 ## Errores del Sistema de Propulsión
-* Vibración anormal en los brazos del bastidor. Riesgo de choque. Se requiere mantenimiento inmediato.
+* [Vibración anormal en los brazos del bastidor. Riesgo de choque. Se requiere mantenimiento inmediato.](./propulsion/vibracion-anormal.md)
 * Se ha perdido el acelerador de repuesto del Motor 1. Detenga el vuelo inmediatamente.
 * Se ha perdido el acelerador de repuesto del Motor 2. Detenga el vuelo inmediatamente.
 * Se ha perdido el acelerador de repuesto del Motor 3. Detenga el vuelo inmediatamente.
