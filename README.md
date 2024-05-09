@@ -116,7 +116,7 @@ A continuación se listan los errores del DJI Agras T40 clasificados por subsist
 * Boquilla centrífuga 1 desconectada
 * Boquilla centrífuga 2 desconectada
 * Excepción de puesta a cero del caudímetro
-* Caudimetro desconectado
+* [Caudimetro desconectado](./rociado/caudimetro-desconectado.md)
 * Calibración del caudimetro ha dado error
 * Caudimetro marca 0 litros por minuto a pesar de que las bombas están encendidas
 * Caudimetro marca más de 12 litros por minuto
