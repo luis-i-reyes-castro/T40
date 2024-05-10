@@ -27,7 +27,9 @@ Método de diagnóstico:
 
 Las bombas son independientes, asi que la probabilidad de que se dañen al mismo tiempo es bastante baja. Por esta razón las causas más probables son:
 * Filtro del fondo del tanque obstruido.
-* Cable de bombas dañado sucio, sulfatado o dañado. 
+* Cable de bombas sucio, sulfatado o dañado. 
 * Cable del tanque sucio, sulfatado o dañado.
 * Tarjeta de atrás del tanque sucia, sulfatada o dañada.
 * Tarjeta de rociado dañada.
+* Cable que une el cable del tanque con la tarjeta de distribución de cables sucio, sulfatado o dañado.
+* Tarjeta de distribución de cables sucia, sulfatada o dañada.
