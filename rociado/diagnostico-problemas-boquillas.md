@@ -18,10 +18,10 @@ Método de diagnóstico:
 ## Problemas Solamente en la Boquilla Centrífuga 2
 
 Método de diagnóstico:
-* Intercambiar las bombas. Es decir, poner la bomba 1 en la posición 2 y la bomba 2 en la posición 1.
+* Intercambiar las boquillas centrífugas. Es decir, poner la boquilla 1 en la posición 2 y la boquilla 2 en la posición 1.
 * Activar el rociado. 
-  * Si el problema permanece del lado de la bomba 2 entonces la causa del problema es el cable de las bombas.
-  * Si el problema se mueve al lado de la bomba 1 entonces la causa es bomba dañada.
+  * Si el problema permanece del lado de la boquilla 2 entonces la causa del problema es el cable de la boquilla.
+  * Si el problema se mueve al lado de la boquilla 1 entonces la causa es motor de boquilla dañado.
 
 ## Problemas en Ambas Boquillas Centrífugas
 
