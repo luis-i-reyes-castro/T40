@@ -12,5 +12,5 @@ Tenemos tres casos principales:
 Método de diagnóstico:
 * Intercambiar las bombas. Es decir, poner la bomba 1 en la posición 2 y la bomba 2 en la posición 1.
 * Activar el rociado. 
-* * Si el problema permanece del lado de la bomba 1 entonces la causa del problema es el cable de las bombas.
-* * Si el problema se mueve al lado de la bomba 2 entonces la causa es bomba 1 dañada.
+    * Si el problema permanece del lado de la bomba 1 entonces la causa del problema es el cable de las bombas.
+    * Si el problema se mueve al lado de la bomba 2 entonces la causa es bomba 1 dañada.
