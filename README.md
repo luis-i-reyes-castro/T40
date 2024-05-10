@@ -92,25 +92,24 @@ A continuación se listan los errores del DJI Agras T40 clasificados por subsist
 * Sensor de nivel de líquido Hall the punto único desconectado
 * Cable de conexión del sensor de peso roto
 * Marcado incorrecto del litraje del tanque
-* Error de cálculo de caudal de la bomba 1
-* Error de cálculo de caudal de la bomba 2
-* Error de cálculo de caudal de ambas bombas
-* Ha fallado la autocomprobación de la bomba 1
-* Ha fallado la autocomprobación de la bomba 2
-* Error de autocomprobación de la bomba 1
-* Error de autocomprobación de la bomba 2
-* Error de autocomprobación de ambas bombas
-* Excepción de tiempo de funcionamiento ESC de la bomba de agua 1
-* Excepción de tiempo de funcionamiento ESC de la bomba de agua 2
-* Excepción de tiempo de funcionamiento ESC de ambas bombas
-* Voltage de la bomba 1 demasiado bajo
-* Voltage de la bomba 2 demasiado bajo
-* Bomba 1 no conectada
-* Bomba 2 no conectada
-* Ambas bombas desconectadas
-* Calibración de las bombas ha dado error en la bomba 1
-* Calibración de las bombas ha dado error en la bomba 2
-* Calibración de las bombas ha dado error en ambas
+* [Error de cálculo de caudal de la bomba 1](./rociado/diagnostico-problemas-bombas.md)
+* [Error de cálculo de caudal de la bomba 2](./rociado/diagnostico-problemas-bombas.md)
+* [Error de cálculo de caudal de ambas bombas](./rociado/diagnostico-problemas-bombas.md)
+* [Ha fallado la autocomprobación de la bomba 1](./rociado/diagnostico-problemas-bombas.md)
+* [Ha fallado la autocomprobación de la bomba 2](./rociado/diagnostico-problemas-bombas.md)
+* [Ha fallado la autocomprobación de ambas bombas](./rociado/diagnostico-problemas-bombas.md)
+* [Excepción de tiempo de funcionamiento ESC de la bomba de agua 1](./rociado/diagnostico-problemas-bombas.md)
+* [Excepción de tiempo de funcionamiento ESC de la bomba de agua 2](./rociado/diagnostico-problemas-bombas.md)
+* [Excepción de tiempo de funcionamiento ESC de ambas bombas](./rociado/diagnostico-problemas-bombas.md)
+* [Voltage de la bomba 1 demasiado bajo](./rociado/diagnostico-problemas-bombas.md)
+* [Voltage de la bomba 2 demasiado bajo](./rociado/diagnostico-problemas-bombas.md)
+* [Voltage de ambas bombas demasiado bajo](./rociado/diagnostico-problemas-bombas.md)
+* [Bomba 1 no conectada](./rociado/diagnostico-problemas-bombas.md)
+* [Bomba 2 no conectada](./rociado/diagnostico-problemas-bombas.md)
+* [Ambas bombas desconectadas](./rociado/diagnostico-problemas-bombas.md)
+* [Calibración de las bombas ha dado error en la bomba 1](./rociado/diagnostico-problemas-bombas.md)
+* [Calibración de las bombas ha dado error en la bomba 2](./rociado/diagnostico-problemas-bombas.md)
+* [Calibración de las bombas ha dado error en ambas bombas](./rociado/diagnostico-problemas-bombas.md)
 * [Cabezal de boquilla desgastado o boquilla obstruida (boquilla centrífuga 1)](./rociado/cabezal-boquilla-desgastado.md)
 * [Cabezal de boquilla desgastado o boquilla obstruida (boquilla centrífuga 2)](./rociado/cabezal-boquilla-desgastado.md)
 * Boquilla centrífuga 1 Motor atascado
