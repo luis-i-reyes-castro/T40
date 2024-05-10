@@ -114,14 +114,14 @@ A continuación se listan los errores del DJI Agras T40 clasificados por subsist
 * [Cabezal de boquilla desgastado o boquilla obstruida (boquilla centrífuga 2)](./rociado/cabezal-boquilla-desgastado.md)
 * Boquilla centrífuga 1 Motor atascado
 * Boquilla centrífuga 2 Motor atascado
-* Boquilla centrífuga 1 Error ESC
-* Boquilla centrífuga 2 Error ESC
-* Boquilla centrífuga 1 Fallo de comprobación automática ESC
-* Boquilla centrífuga 2 Fallo de comprobación automática ESC
-* Boquilla centrífuga 1 Voltaje demasiado bajo
-* Boquilla centrífuga 2 Voltaje demasiado bajo
-* Boquilla centrífuga 1 desconectada
-* Boquilla centrífuga 2 desconectada
+* [Boquilla centrífuga 1 Error ESC](./rociado/diagnostico-problemas-boquillas.md)
+* [Boquilla centrífuga 2 Error ESC](./rociado/diagnostico-problemas-boquillas.md)
+* [Boquilla centrífuga 1 Fallo de comprobación automática ESC](./rociado/diagnostico-problemas-boquillas.md)
+* [Boquilla centrífuga 2 Fallo de comprobación automática ESC](./rociado/diagnostico-problemas-boquillas.md)
+* [Boquilla centrífuga 1 Voltaje demasiado bajo](./rociado/diagnostico-problemas-boquillas.md)
+* [Boquilla centrífuga 2 Voltaje demasiado bajo](./rociado/diagnostico-problemas-boquillas.md)
+* [Boquilla centrífuga 1 desconectada](./rociado/diagnostico-problemas-boquillas.md)
+* [Boquilla centrífuga 2 desconectada](./rociado/diagnostico-problemas-boquillas.md)
 * Excepción de puesta a cero del caudímetro
 * [Caudimetro desconectado](./rociado/caudimetro-desconectado.md)
 * Calibración del caudimetro ha dado error
