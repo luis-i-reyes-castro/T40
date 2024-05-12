@@ -15,6 +15,9 @@ A continuación se listan los errores del DJI Agras T40 clasificados por subsist
 * Desvío excesivo de barómetro
 * Barómetro fuera de rango
 * Cambio de la altitud estática de la aeronave
+* Aeronave desvinculada
+* Vinculación inestable, la aplicación no ha podido desbloquar la aeronave.
+* La vinculación de la aeronave era anormal y no ha podido ser desbloqueada. Nunca despegue en el home mast...
 * Error de radar. La detección de obstáculos podría no estar disponible. Ejecute el pilotaje y el aterrizaje manualmente.
 * Radar desconectado
 * Error de autocomprobación del ESC del radar
