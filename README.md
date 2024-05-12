@@ -86,6 +86,7 @@ A continuación se listan los errores del DJI Agras T40 clasificados por subsist
 * Sobrecalentamiento MOS de la batería
 * Ha fallado la autenticación de la batería
 * Error de comunicación entre el controlador de vuelo y la batería
+* Error de comprobación automática de la batería. No despegue.
 
 ### Errores del Sistema de Rociado
 * Error en sensor de nivel de líquido Hall de punto único
