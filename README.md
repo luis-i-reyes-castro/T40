@@ -2,7 +2,7 @@
 
 # DJI Agras T40: Diagnóstico y Resolución de Problemas _(Troubleshooting)_
 
-Esta página existe porque parece que a DJI no le da la regalada gana de proveer documentación técnica apropiada para el diagnóstico y resolución de problemas (troubleshooting) de sus drones de la línea Agras T40. 
+Esta página existe porque parece que DJI no quiere proveer abiertamente documentación técnica para el diagnóstico y resolución de problemas (Troubleshooting) de sus drones de la línea Agras T40. 
 
 Así que, como dijo Thanos: "Fine, I'll do it myself." ("Bien, lo haré yo mismo.")
 
