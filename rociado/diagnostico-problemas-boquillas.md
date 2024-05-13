@@ -1,4 +1,4 @@
-![Reyes Castro Drones](../Reyes-Castro-Drones_LOGO.png "Reyes Castro Drones")
+![Reyes Castro Drones](/Reyes-Castro-Drones_LOGO.png "Reyes Castro Drones")
 
 # Diagnóstico de Problemas de Boquillas Centrífugas
 
