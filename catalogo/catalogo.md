@@ -4,25 +4,22 @@
 
 ## Sistema de Propulsión
 
-| Imagen | Código | Descripción |
-| ------ | ------ | ----------- |
-| <img src="./YC.JG.ZS001963.png" width="100"> | YC.JG.ZS001963 | Hélices U-CCW |
-| <img src="./YC.JG.ZS001964.png" width="100"> | YC.JG.ZS001964 | Hélices U-CW  |
+| Imagen | Código & Descripción |
+| ------ | -------------------- |
+| <img src="./YC.JG.ZS001963.png" width="100"> | YC.JG.ZS001963<br>Hélices U-CCW |
+| <img src="./YC.JG.ZS001964.png" width="100"> | YC.JG.ZS001964<br>Hélices U-CW  |
 
 <table>
   <tr>
     <th style="width:34%">Imagen</th>
-    <th style="width:33%">Código</th>
-    <th style="width:33%">Descripción</th>
+    <th style="width:66%">Código & Descripción</th>
   </tr>
   <tr>
     <td><img src="./YC.JG.ZS001963.png" width="100"></td>
-    <td>YC.JG.ZS001963</td>
-    <td>Hélices U-CCW</td>
+    <td>YC.JG.ZS001963<br>Hélices U-CCW</td>
   </tr>
   <tr>
     <td><img src="./YC.JG.ZS001964.png" width="100"></td>
-    <td>YC.JG.ZS001964</td>
-    <td>Hélices U-CW</td>
+    <td>YC.JG.ZS001964<br>Hélices U-CW</td>
   </tr>
 </table>
