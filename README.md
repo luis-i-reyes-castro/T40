@@ -85,6 +85,7 @@ A continuación se listan los errores del DJI Agras T40 clasificados por subsist
 * El brazo 2 no está bien sujeto (a pesar de estar asegurado)
 * El brazo 3 no está bien sujeto (a pesar de estar asegurado)
 * El brazo 4 no está bien sujeto (a pesar de estar asegurado)
+* Error de voltaje de la batería
 * Se requiere mantenimiento de la batería
 * Sobrecalentamiento MOS de la batería
 * Ha fallado la autenticación de la batería
