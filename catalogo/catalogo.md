@@ -15,11 +15,11 @@
     <th style="width:50%">Descripción</th>
   </tr>
   <tr>
-    <td><img src="./YC.JG.ZS001963.png" alt="YC.JG.ZS001963.png"></td>
+    <td><img src="./YC.JG.ZS001963.png" alt="YC.JG.ZS001963.png" width="200"></td>
     <td>Hélices U-CCW</td>
   </tr>
   <tr>
-    <td><img src="./YC.JG.ZS001964.png" alt="YC.JG.ZS001964.png"></td>
+    <td><img src="./YC.JG.ZS001964.png" alt="YC.JG.ZS001964.png" width="200"></td>
     <td>Hélices U-CW</td>
   </tr>
 </table>
