@@ -6,8 +6,8 @@
 
 | Imagen | Descripción |
 | ------ | ----------- |
-| <img src="./YC.JG.ZS001963.png" alt="YC.JG.ZS001963.png" width="200"> | Hélices U-CCW |
-| <img src="./YC.JG.ZS001964.png" alt="YC.JG.ZS001964.png" width="200"> | Hélices U-CW  |
+| <img src="./YC.JG.ZS001963.png" width="100"> | Hélices U-CCW |
+| <img src="./YC.JG.ZS001964.png" width="100"> | Hélices U-CW  |
 
 <table>
   <tr>
@@ -15,11 +15,11 @@
     <th style="width:50%">Descripción</th>
   </tr>
   <tr>
-    <td><img src="./YC.JG.ZS001963.png" alt="YC.JG.ZS001963.png" width="200"></td>
+    <td><img src="./YC.JG.ZS001963.png" width="100"></td>
     <td>Hélices U-CCW</td>
   </tr>
   <tr>
-    <td><img src="./YC.JG.ZS001964.png" alt="YC.JG.ZS001964.png" width="200"></td>
+    <td><img src="./YC.JG.ZS001964.png" width="100"></td>
     <td>Hélices U-CW</td>
   </tr>
 </table>
