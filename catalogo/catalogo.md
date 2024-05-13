@@ -6,5 +6,5 @@
 
 | Imagen | Descripción |
 | ------ | ----------- |
-| ![YC.JG.ZS001963](./YC.JG.ZS001963.png "YC.JG.ZS001963") | Hélices U-CCW |
-| ![YC.JG.ZS001964](./YC.JG.ZS001964.png "YC.JG.ZS001964") | Hélices U-CW  |
+| <img src="./YC.JG.ZS001963.png" alt="YC.JG.ZS001963.png" width="200"> | Hélices U-CCW |
+| <img src="./YC.JG.ZS001964.png" alt="YC.JG.ZS001964.png" width="200"> | Hélices U-CW  |
