@@ -1,4 +1,4 @@
-![Reyes Castro Drones](../Reyes-Castro-Drones_LOGO.png "Reyes Castro Drones")
+![Reyes Castro Drones](/Reyes-Castro-Drones_LOGO.png "Reyes Castro Drones")
 
 # Vibración Anormal en los Brazos del Bastidor
 
