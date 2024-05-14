@@ -1,17 +1,6 @@
 ![Reyes Castro Drones](/Reyes-Castro-Drones_LOGO.png "Reyes Castro Drones")
 
-# DJI Agras T40: Catalogo de Partes y Piezas
-
-Las partes y piezas del T40 están catalogadas en los siguientes subsistemas:
-* Propulsión
-* Rociado
-* Estructuras
-* Sensores & Electrónica
-* Cables
-* Tornillos
-* Partes y Piezas del Control Remoto
-
-## Sistema de Propulsión
+# Sistema de Propulsión
 
 Estas partes y piezas están relacionadas con las hélices y los motores.
 
