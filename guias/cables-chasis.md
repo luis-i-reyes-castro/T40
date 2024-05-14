@@ -10,7 +10,10 @@ Lado Derecho...
 
 Estos son los terminales del lado de la Tarjeta de Distribución de Cables. 
 
+![](/cables-chasis-1_anotada.png "Vista Delantera")
+
 ## Vista Trasera
 
 Estos son los terminales del lado de la Tarjeta de Distribución de Potencia. 
 
+![](/cables-chasis-2_anotada.png "Vista Trasera")
