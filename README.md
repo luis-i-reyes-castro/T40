@@ -7,7 +7,7 @@ Así que, como dijo Thanos: "Fine, I'll do it myself." ("Bien, lo haré yo mismo
 # DJI Agras T40: Catálogo de Referencia
 
 Las partes y piezas del T40 están catalogadas en los siguientes sistemas:
-* [Propulsión](./catalogo/#_propulsion.md)
+* [Propulsión](./catalogo/AA_propulsion.md)
 * Rociado
 * Estructuras
 * Sensores & Electrónica
