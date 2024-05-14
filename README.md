@@ -1,10 +1,14 @@
 ![Reyes Castro Drones](./Reyes-Castro-Drones_LOGO.png "Reyes Castro Drones")
 
-# DJI Agras T40: Diagnóstico y Resolución de Problemas _(Troubleshooting)_
-
-Esta página existe porque parece que DJI no quiere proveer abiertamente documentación técnica para el diagnóstico y resolución de problemas (Troubleshooting) de sus drones de la línea Agras T40. 
+Esta página existe porque parece que DJI no quiere proveer abiertamente documentación de soporte técnico para sus drones de la línea Agras T40. 
 
 Así que, como dijo Thanos: "Fine, I'll do it myself." ("Bien, lo haré yo mismo.")
+
+# DJI Agras T40: Catálogo de Referencia
+
+[Click aquí.](./catalogo/catalogo.md)
+
+# DJI Agras T40: Diagnóstico y Resolución de Problemas _(Troubleshooting)_
 
 A continuación se listan los errores del DJI Agras T40 clasificados por subsistema. 
 * **Errores del Sistema de Vuelo y/o Propulsión:** Estos errores merecen la máxima prioridad dado que si no son atentidos el dron se puede accidentar.
