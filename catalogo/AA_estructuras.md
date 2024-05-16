@@ -43,3 +43,27 @@ Carcasas, cubiertas, protectores, partes del tren de aterrizaje, brazos, partes 
 | <img src="./BC.AG.SS000778.png" width="100"> |BC.AG.SS000778 <br>M2 Aircraft Arm (Front Left)<br>Brazo de la Aeronave M2 (Frontal Izquierdo) |
 | <img src="./BC.AG.SS000779.png" width="100"> |BC.AG.SS000779 <br>M3 Aircraft Arm (Rear Left)<br>Brazo de la Aeronave M3 (Trasero Izquierdo) |
 | <img src="./BC.AG.SS000780.png" width="100"> |BC.AG.SS000780 <br>M4 Aircraft Arm (Rear Right)<br>Brazo de la Aeronave M4 (Trasero Derecho) |
+| <img src="./YC.JG.ZS002191.png" width="100"> |YC.JG.ZS002191 <br>Aircraft Arm Fixing Piece (Left)<br>Sujetador de Brazos (Izquierdo) |
+| <img src="./YC.JG.ZS002192.png" width="100"> |YC.JG.ZS002192 <br>Aircraft Arm Fixing Piece (Right)<br>Sujetador de Brazos (Derecho) |
+| <img src="./YC.JG.ZS003694.png" width="100"> |YC.JG.ZS003694 <br>Anti-Wear Sleeve<br>Manga Anti-Desgaste |
+| <img src="./YC.JG.LD000039.png" width="100"> |YC.JG.LD000039 <br>Aircraft Arm Fixing Screw<br>Tornillo del Eje Sujección del Brazo |
+| <img src="./YC.JG.QX002314.png" width="100"> |YC.JG.QX002314 <br>Aircraft Arm Fixing Screw Bolt<br>Perno del Eje Sujección del Brazo |
+| <img src="./YC.JG.ZS002394.png" width="100"> |YC.JG.ZS002394 <br>Aircraft Arm Friction Plate<br>Plato de Fricción del Brazo |
+| <img src="./BC.AG.SS000575.png" width="100"> |BC.AG.SS000575 <br>Locking Piece Handle<br>Mango del Seguro del Brazo |
+| <img src="./YC.JG.LD000041.png" width="100"> |YC.JG.LD000041 <br>Locking Piece Fixing Screw Bolt<br>Perno del Mango del Seguro del Brazo |
+| <img src="./YC.JG.QX002088.png" width="100"> |YC.JG.QX002088 <br>Locking Piece Connection Rod<br>Varilla del Seguro del Brazo |
+| <img src="./YC.JG.QX002089.png" width="100"> |YC.JG.QX002089 <br>Locking Piece Aircraft Arm Shaft<br>Eje de la Varilla del Seguro del Brazo 1 |
+| <img src="./YC.JG.QX001243.png" width="100"> |YC.JG.QX001243 <br>Locking Piece Handle Connecting Rod Shaft<br>Eje de la Varilla del Seguro del Brazo 2 |
+| <img src="./YC.JG.TT000095.png" width="100"> |YC.JG.TT000095 <br>Locking Piece Spring<br>Resorte del Mango del Seguro del Brazo |
+| <img src="./YC.JG.MY000720.png" width="100"> |YC.JG.MY000720 <br>Locking Piece Handle Rubber Sleeve<br>Caucho Cobertor del Seguro del Brazo |
+| <img src="./YC.JG.ZS002278.png" width="100"> |YC.JG.ZS002278 <br>In-Position Detector Bracket<br>Sujetador del Sensor de Plegado |
+| <img src="./YC.JG.QX003209.png" width="100"> |YC.JG.QX003209 <br>Motor Fixing Base - M4 Upper<br>Base de Motor - M4 Superior |
+| <img src="./YC.JG.QX003210.png" width="100"> |YC.JG.QX003210 <br>Motor Fixing Base - M4 Lower<br>Base del Motor - M4 Inferior |
+| <img src="./YC.JG.QX003454.png" width="100"> |YC.JG.QX003454 <br>Motor Fixing Base - M5 UPPER<br>Base del Motor - M5 Superior |
+| <img src="./YC.JG.QX003455.png" width="100"> |YC.JG.QX003455 <br>Motor Fixing Base - M5 LOWER<br>Base del Motor - M5 Inferior |
+| <img src="./YC.JG.ZS002416.png" width="100"> |YC.JG.ZS002416 <br>SDR Protective Sleeve<br>Cobertor de la Antena SDR |
+| <img src="./YC.JG.ZS002262.png" width="100"> |YC.JG.ZS002262 <br>Spray Rod Fixing Nut<br>Tuerca del Bajante |
+| <img src="./YC.JG.ZS002253.png" width="100"> |YC.JG.ZS002253 <br>Spray Rod Adaptive Shaft<br>Eje Adaptivo del Bajante |
+| <img src="./YC.JG.ZS002254.png" width="100"> |YC.JG.ZS002254 <br>Spray Rod Quick-Release Sleeve<br>Acople Rápido del Bajante |
+| <img src="./YC.JG.ZS002483.png" width="100"> |YC.JG.ZS002483 <br>Centrifugal Spray Boom<br>Bajante |
+| <img src="./YC.JG.ZS002234.png" width="100"> |YC.JG.ZS002234 <br>Impeller Pump Bracket<br>Soporte de la Bomba |
