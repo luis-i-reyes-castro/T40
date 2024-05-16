@@ -37,4 +37,13 @@ Estas partes y piezas están involucradas en el transporte del líquido pesticid
 | <img src="./YC.JG.JS000018.png" width="100"> | YC.JG.JS000018<br>Aircraft Arm Hose<br>Manguera del Brazo |
 | <img src="./YC.JG.ZS002257.png" width="100"> | YC.JG.ZS002257<br>Hose Curving Connector (Outer Thread)<br>Conector Curvo de Manguera (Rosca Externa) |
 | <img src="./YC.JG.ZS002258.png" width="100"> | YC.JG.ZS002258<br>Hose Curving Connector (Inner Thread)<br>Conector Curvo de Manguera (Rosca Interna) |
-
+| <img src="./YC.JG.JS000019.png" width="100"> |YC.JG.JS000019 <br>Spray Rod Hose<br>Manguera del Bajante |
+| <img src="./BC.AG.SS000565.png" width="100"> |BC.AG.SS000565 <br>Centrifugal Motor<br>Motor de Boquilla Centrífuga |
+| <img src="./BC.AG.SS000604.png" width="100"> |BC.AG.SS000604 <br>Centrifugal Sprinkler Lower Cover<br>Cubierta Inferior de la Boquilla Centrífuga |
+| <img src="./YC.JG.MY000715.png" width="100"> |YC.JG.MY000715 <br>Centrifugal Sprinkler Sealing Ring<br>Anillo Sellador de la Boquilla Centrífuga |
+| <img src="./YC.JG.ZS001878.png" width="100"> |YC.JG.ZS001878 <br>Centrifugal Sprinkler Spinner Upper Disk<br>Disco de Rociado Superior |
+| <img src="./YC.JG.ZS001879.png" width="100"> |YC.JG.ZS001879 <br>Centrifugal Sprinkler Spinner Lower Disk<br>Disco de Rociado Inferior |
+| <img src="./YC.JG.ZS002288.png" width="100"> |YC.JG.ZS002288 <br>Centrifugal Sprinkler Friction Piece<br>Pieza de Fricción de la Boquilla Centrífuga |
+| <img src="./YC.JG.TT000100.png" width="100"> |YC.JG.TT000100 <br>Centrifugal Sprinkler Spring<br>Resorte de la Boquilla Centrífuga |
+| <img src="./YC.JG.ZS002289.png" width="100"> |YC.JG.ZS002289 <br>Centrifugal Sprinkler Spring Bracket<br>Soporte del Resorte de la Boquilla Centrífuga |
+| <img src="./YC.WJ.LL000244.png" width="100"> |YC.WJ.LL000244 <br>Centrifugal Sprinkler Thumb Nut<br>Mariposa de la Boquilla Centrifuga |
