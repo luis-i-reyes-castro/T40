@@ -56,10 +56,10 @@ Carcasas, cubiertas, protectores, partes del tren de aterrizaje, brazos, partes 
 | <img src="./YC.JG.MY000720.png" width="100"> |YC.JG.MY000720 <br>Locking Piece Handle Rubber Sleeve<br>Caucho Cobertor del Seguro del Brazo |
 | <img src="./YC.JG.ZS002278.png" width="100"> |YC.JG.ZS002278 <br>In-Position Detector Bracket<br>Sujetador del Sensor de Plegado |
 | <img src="./YC.JG.QX003209.png" width="100"> |YC.JG.QX003209 <br>Motor Fixing Base - M4 Upper<br>Base de Motor - M4 Superior |
-| <img src="./YC.JG.QX003210.png" width="100"> |YC.JG.QX003210 <br>Motor Fixing Base - M4 Lower<br>Base del Motor - M4 Inferior |
-| <img src="./YC.JG.QX003454.png" width="100"> |YC.JG.QX003454 <br>Motor Fixing Base - M5 UPPER<br>Base del Motor - M5 Superior |
-| <img src="./YC.JG.QX003455.png" width="100"> |YC.JG.QX003455 <br>Motor Fixing Base - M5 LOWER<br>Base del Motor - M5 Inferior |
-| <img src="./YC.JG.ZS002416.png" width="100"> |YC.JG.ZS002416 <br>SDR Protective Sleeve<br>Cobertor de la Antena SDR |
+| <img src="./YC.JG.QX003210.jpg" width="100"> |YC.JG.QX003210 <br>Motor Fixing Base - M4 Lower<br>Base del Motor - M4 Inferior |
+| <img src="./YC.JG.QX003454.jpg" width="100"> |YC.JG.QX003454 <br>Motor Fixing Base - M5 UPPER<br>Base del Motor - M5 Superior |
+| <img src="./YC.JG.QX003455.jpg" width="100"> |YC.JG.QX003455 <br>Motor Fixing Base - M5 LOWER<br>Base del Motor - M5 Inferior |
+| <img src="./YC.JG.ZS002416.jpg" width="100"> |YC.JG.ZS002416 <br>SDR Protective Sleeve<br>Cobertor de la Antena SDR |
 | <img src="./YC.JG.ZS002262.png" width="100"> |YC.JG.ZS002262 <br>Spray Rod Fixing Nut<br>Tuerca del Bajante |
 | <img src="./YC.JG.ZS002253.png" width="100"> |YC.JG.ZS002253 <br>Spray Rod Adaptive Shaft<br>Eje Adaptivo del Bajante |
 | <img src="./YC.JG.ZS002254.png" width="100"> |YC.JG.ZS002254 <br>Spray Rod Quick-Release Sleeve<br>Acople Rápido del Bajante |
