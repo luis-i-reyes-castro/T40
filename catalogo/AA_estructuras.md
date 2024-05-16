@@ -67,3 +67,16 @@ Carcasas, cubiertas, protectores, partes del tren de aterrizaje, brazos, partes 
 | <img src="./YC.JG.ZS002254.png" width="100"> |YC.JG.ZS002254 <br>Spray Rod Quick-Release Sleeve<br>Acople Rápido del Bajante |
 | <img src="./YC.JG.ZS002483.png" width="100"> |YC.JG.ZS002483 <br>Centrifugal Spray Boom<br>Bajante |
 | <img src="./YC.JG.ZS002234.png" width="100"> |YC.JG.ZS002234 <br>Impeller Pump Bracket<br>Soporte de la Bomba |
+| <img src="./YC.JG.ZS002389.png" width="100"> |YC.JG.ZS002389 <br>Impeller Pump Protective Hood<br>Tapa Protectora de Bombas |
+| <img src="./YC.JG.ZS002237.png" width="100"> |YC.JG.ZS002237 <br>Liquid Level Meter Bracket<br>Sujetador del Sensor de Nivel de Liquido |
+| <img src="./YC.JG.ZS002224.png" width="100"> |YC.JG.ZS002224 <br>Load Sensor Bracket (Front)<br>Soporte de la Balanza (Delantero) |
+| <img src="./YC.JG.ZS002225.png" width="100"> |YC.JG.ZS002225 <br>Load Sensor Bracket (Left)<br>Soporte de la Balanza (Izquierdo) |
+| <img src="./YC.JG.ZS002226.png" width="100"> |YC.JG.ZS002226 <br>Load Sensor Bracket (Right)<br>Soporte de la Balanza (Derecho) |
+| <img src="./YC.JG.ZS002294.png" width="100"> |YC.JG.ZS002294 <br>Battery Supporting Piece (Left)<br>Soporte de la Batería (Izquierdo) |
+| <img src="./YC.JG.ZS002295.png" width="100"> |YC.JG.ZS002295 <br>Battery Supporting Piece (Right)<br>Soporte de la Batería (Derecho) |
+| <img src="./YC.WJ.ZZ002618.png" width="100"> |YC.WJ.ZZ002618 <br>Spray Tank Fixing Piece Roller Shaft<br>Tornillo de Eje del Rodamiento del Sujetador del
+Tanque de Rociado |
+| <img src="./YC.JG.FM000083.png" width="100"> |YC.JG.FM000083 <br>Battery Buckle<br>Seguro de la Batería |
+| <img src="./YC.JG.MY000736.png" width="100"> |YC.JG.MY000736 <br>Battery Buckle Sealing Ring<br>Caucho Sellador de la Batería |
+| <img src="./YC.JG.ZS002229.png" width="100"> |YC.JG.ZS002229 <br>Load Sensor Cable Clip<br>Clip del Cable de las Balanzas |
+| <img src="./YC.JG.ZS002259.png" width="100"> |YC.JG.ZS002259 <br>Hose Clip<br>Clip de la Manguera |
