@@ -2,7 +2,12 @@
 
 # Estructuras
 
-Carcasas, cubiertas, protectores, partes del tren de aterrizaje, brazos, partes del chasis, y todo tipo de parte o pieza cuyo propósito principal sea soportar o cubrir alguna otra parte o pieza.
+Consideramos como estructuras a las siguientes partes y piezas:
+* Carcasas, cubiertas, protectores, etc.
+* Partes del tren de aterrizaje
+* Brazos, seguros y partes aledañas,
+* Partes del chasis
+* Todo tipo de parte o pieza cuyo propósito principal sea soportar, sostener, cubrir o proteger alguna otra parte o pieza.
 
 | Imagen | Código & Descripción |
 | ------ | -------------------- |
