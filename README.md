@@ -9,9 +9,9 @@ Así que, como dijo Thanos: "Fine, I'll do it myself." ("Bien, lo haré yo mismo
 Las partes y piezas del T40 están catalogadas en los siguientes sistemas:
 * [Propulsión](./catalogo/AA_propulsion.md)
 * [Rociado](./catalogo/AA_rociado.md)
+* [Estructuras](./catalogo/AA_estructuras.md)
 * Sensores & Electrónica
 * Cables
-* Estructuras
 * Tornillos
 * Partes y Piezas del Control Remoto
 
