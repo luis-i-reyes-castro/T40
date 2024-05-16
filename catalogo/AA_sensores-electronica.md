@@ -15,6 +15,7 @@ Sensores y tarjetas electrónicas.
 | <img src="./BC.AG.SS000562.png" width="100"> |BC.AG.SS000562 <br>Forward Vision Sensor Module<br>Módulo del Sensor de Visión Frontal |
 | <img src="./YC.DZ.AA000275.png" width="100"> |YC.DZ.AA000275 <br>SDR Antenna<br>Antena SDR del Dron |
 | <img src="./BC.AG.SS000560.png" width="100"> |BC.AG.SS000560 <br>RTK Antenna Module<br>Módulo de Antena RTK |
+| <img src="./BAROMETER.png" width="100"> | N/A<br>Barometer Module<br>Barómetro |
 | <img src="./YC.QT.QT000167.png" width="100"> |YC.QT.QT000167 <br>Barometer Waterproof Permeability Film<br>Filtro del Barómetro |
 | <img src="./BC.AG.SS000617.png" width="100"> |BC.AG.SS000617 <br>Aerial-Electronics Module (L)<br>Módulo de Electrónica Aérea (L) |
 | <img src="./BC.AG.SS000554.png" width="100"> |BC.AG.SS000554 <br>Spraying Board<br>Tarjeta de Rociado |
