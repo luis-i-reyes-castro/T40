@@ -25,8 +25,8 @@ Carcasas, cubiertas, protectores, partes del tren de aterrizaje, brazos, partes 
 | <img src="./YC.JG.QX002224.png" width="100"> |YC.JG.QX002224 <br>Rear Frame Crossbeam<br>Barra de Soporte Trasera |
 | <img src="./YC.JG.ZS002284.png" width="100"> |YC.JG.ZS002284 <br>Downward Vision Radar Bracket<br>Radar Trasero Inferior |
 | <img src="./YC.JG.ZS002307.png" width="100"> |YC.JG.ZS002307 <br>Spray Tank Outer Shell<br>Carcasa Exterior del Tanque |
-| <img src="./YC.JG.ZS002422.png" width="100"> | <br><br> |
-| <img src="./.png" width="100"> |YC.JG.ZS002422 <br>Outer Shell Buckle<br>Vincha Macho |
+| <img src="./YC.JG.FP000018.png" width="100"> |YC.JG.FP000018 <br>Motor Cover<br>Espuma Protectora del Motor |
+| <img src="./YC.JG.ZS002422.png" width="100"> |YC.JG.ZS002422 <br>Outer Shell Buckle<br>Vincha Macho |
 | <img src="./YC.JG.ZS000998.png" width="100"> |YC.JG.ZS000998 <br>Rear Shell Small Buckle Base<br>Vincha Hembra |
 | <img src="./YC.JG.BJ001168.png" width="100"> |YC.JG.BJ001168 <br>Landing Gear Aluminum Tube<br>Tubo de Alumiunio del Tren de Aterrizaje |
 | <img src="./YC.JG.XW000089.png" width="100"> |YC.JG.XW000089 <br>Landing Gear Crossbeam<br>Tubo Cruzado del Tren de Aterrizaje |
