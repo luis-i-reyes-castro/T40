@@ -7,6 +7,7 @@ Sensores y tarjetas electrónicas.
 | Imagen | Código & Descripción |
 | ------ | -------------------- |
 | <img src="./BC.AG.SS000547.png" width="100"> |BC.AG.SS000547 <br>Liquid Level Meter Module<br>Sensor de Nivel de Líquido |
+| <img src="./BC.AG.SS000545.png" width="100"> | BC.AG.SS000545<br>Flow Meter Module<br>Caudímetro |
 | <img src="./BC.AG.SS000550.png" width="100"> |BC.AG.SS000550 <br>Load Sensor Module<br>Módulo del Sensor de Carga (Balanzas) |
 | <img src="./YC.XC.XX000834.png" width="100"> |YC.XC.XX000834 <br>Aircraft Arm In-Position Detector Signal Cable<br>Sensor de Plegado |
 | <img src="./BC.AG.SS000551.png" width="100"> |BC.AG.SS000551 <br>Omnidirectional Radar Module<br>Radar Omnidireccional Frontal |
