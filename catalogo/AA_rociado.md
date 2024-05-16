@@ -2,7 +2,7 @@
 
 # Sistema de Rociado
 
-Estas partes y piezas están involucradas en el transporte del líquido pesticida, desde la boca del tanque hasta los discos de rociado.
+Estas partes y piezas están involucradas en el transporte del líquido pesticida, desde el momento que ingresa por la boca del tanque hasta que el instante que egresa por los discos de rociado.
 
 | Imagen | Código & Descripción |
 | ------ | -------------------- |
