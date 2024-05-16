@@ -8,7 +8,7 @@ Carcasas, cubiertas, protectores, partes del tren de aterrizaje, brazos, partes 
 | ------ | -------------------- |
 | <img src="./YC.JG.ZS002282.png" width="100"> | YC.JG.ZS002282<br>Front Upper Shell<br>Carcasa Frontal Superior |
 | <img src="./YC.JG.ZS002283.png" width="100"> | YC.JG.ZS002283<br>Front Lower Shell<br>Carcasa Frontal Inferior |
-| <img src="./.png" width="100"> | <br><br> |
+| <img src="./YC.JG.ZS002432.png" width="100"> |YC.JG.ZS002432 <br>Front Lower Shell 2<br>Carcasa Frontal Inferior 2 |
 | <img src="./.png" width="100"> | <br><br> |
 | <img src="./.png" width="100"> | <br><br> |
 | <img src="./.png" width="100"> | <br><br> |
