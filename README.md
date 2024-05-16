@@ -14,10 +14,10 @@ Las partes y piezas del T40 están catalogadas en los siguientes sistemas:
 * [Propulsión](./catalogo/AA_propulsion.md)
 * [Rociado](./catalogo/AA_rociado.md)
 * [Estructuras](./catalogo/AA_estructuras.md)
-* Sensores & Electrónica
-* Cables
-* Tornillos
-* Partes y Piezas del Control Remoto
+* [Sensores & Electrónica](./catalogo/AA_sensores-electronica.md)
+* [Cables](./catalogo/AA_cables.md)
+* [Tornillos](./catalogo/AA_tornillos.md)
+* [Control Remoto](./catalogo/AA_control-remoto.md)
 
 # DJI Agras T40: Diagnóstico y Resolución de Problemas _(Troubleshooting)_
 
