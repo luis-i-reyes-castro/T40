@@ -72,9 +72,8 @@ Carcasas, cubiertas, protectores, partes del tren de aterrizaje, brazos, partes 
 | <img src="./YC.JG.ZS002226.png" width="100"> |YC.JG.ZS002226 <br>Load Sensor Bracket (Right)<br>Soporte de la Balanza (Derecho) |
 | <img src="./YC.JG.ZS002294.png" width="100"> |YC.JG.ZS002294 <br>Battery Supporting Piece (Left)<br>Soporte de la Batería (Izquierdo) |
 | <img src="./YC.JG.ZS002295.png" width="100"> |YC.JG.ZS002295 <br>Battery Supporting Piece (Right)<br>Soporte de la Batería (Derecho) |
-| <img src="./YC.WJ.ZZ002618.png" width="100"> |YC.WJ.ZZ002618 <br>Spray Tank Fixing Piece Roller Shaft<br>Tornillo de Eje del Rodamiento del Sujetador del
-Tanque de Rociado |
-| <img src="./YC.JG.FM000083.png" width="100"> |YC.JG.FM000083 <br>Battery Buckle<br>Seguro de la Batería |
+| <img src="./YC.WJ.ZZ002618.jpg" width="100"> |YC.WJ.ZZ002618 <br>Spray Tank Fixing Piece Roller Shaft<br>Tornillo de Eje del Rodamiento del Sujetador del Tanque de Rociado |
+| <img src="./YC.JG.FM000083.jpg" width="100"> |YC.JG.FM000083 <br>Battery Buckle<br>Seguro de la Batería |
 | <img src="./YC.JG.MY000736.png" width="100"> |YC.JG.MY000736 <br>Battery Buckle Sealing Ring<br>Caucho Sellador de la Batería |
 | <img src="./YC.JG.ZS002229.png" width="100"> |YC.JG.ZS002229 <br>Load Sensor Cable Clip<br>Clip del Cable de las Balanzas |
-| <img src="./YC.JG.ZS002259.png" width="100"> |YC.JG.ZS002259 <br>Hose Clip<br>Clip de la Manguera |
+| <img src="./YC.JG.ZS002259.jpg" width="100"> |YC.JG.ZS002259 <br>Hose Clip<br>Clip de la Manguera |
