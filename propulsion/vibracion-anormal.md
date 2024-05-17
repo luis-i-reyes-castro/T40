@@ -12,3 +12,4 @@ Posibles Causas:
 * Juego entre el brazo y el soporte del brazo
 * Protector de antena SDR chueco, torcido o mal ajustado
 * Bajante chueco, torcido o mal ajustado
+* Grietas o fracturas en alguno de los brazos
