@@ -2,7 +2,7 @@
 
 # Sistema de Propulsión
 
-Estas partes y piezas están relacionadas con las hélices y los motores.
+Estas partes y piezas juegan un papel fundamental en la generación de sustentación.
 
 | Imagen | Código & Descripción |
 | ------ | -------------------- |
