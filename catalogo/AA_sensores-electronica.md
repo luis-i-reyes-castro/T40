@@ -2,8 +2,6 @@
 
 # Sensores & Electrónica
 
-Sensores y tarjetas electrónicas.
-
 | Imagen | Código & Descripción |
 | ------ | -------------------- |
 | <img src="./BC.AG.SS000547.png" width="100"> |BC.AG.SS000547 <br>Liquid Level Meter Module<br>Sensor de Nivel de Líquido |
