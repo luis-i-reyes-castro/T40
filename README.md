@@ -4,6 +4,6 @@ Esta página existe porque no he logrado encontrar una página de documentación
 
 Así que, como dijo Thanos: "Fine, I'll do it myself." ("Bien, lo haré yo mismo.")
 
-Recursos Principales:
-* [Catálogo de Referencia](./catalogo.md)
-* [Diagnóstico y Resolución de Problemas _(Troubleshooting)_](./troubleshooting.md)
+# Recursos Principales:
+* ## [Catálogo de Referencia](./catalogo.md)
+* ## [Diagnóstico y Resolución de Problemas _(Troubleshooting)_](./troubleshooting.md)
