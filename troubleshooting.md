@@ -7,6 +7,7 @@ A continuación se listan los errores del DJI Agras T40 clasificados por subsist
 * **Errores del Sistema de Rociado:** Estos errores pueden resultar en malas aplicaciones, pero generalmente no conllevan peligro de vuelo.
 
 ## Errores del Sistema de Vuelo
+* No se puede despegar. Las antenas duales RTK no están listas.
 * Fuente de señal RTK no seleccionada. No se puede iniciar.
 * Desvío excesivo de barómetro
 * Barómetro fuera de rango
